@@ -1,0 +1,12 @@
+split = T.RandomNodeSplit(split="train_rest",num_test=0.15,num_val=0.05)
+Epoch 1/2000, Train_Loss: 0.0101, Train_Accuracy: 0.8356, Val_Accuracy: 0.8333, Test_Accuracy: 0.8904
+Epoch 17/2000, Train_Loss: 0.0069, Train_Accuracy: 0.8356, Val_Accuracy: 0.8333, Test_Accuracy: 0.8904
+Epoch 18/2000, Train_Loss: 0.0056, Train_Accuracy: 0.8219, Val_Accuracy: 0.8333, Test_Accuracy: 0.8904
+Epoch 26/2000, Train_Loss: 0.0035, Train_Accuracy: 0.8219, Val_Accuracy: 0.8333, Test_Accuracy: 0.8904
+Epoch 34/2000, Train_Loss: 0.0033, Train_Accuracy: 0.7671, Val_Accuracy: 0.8611, Test_Accuracy: 0.8219
+Epoch 94/2000, Train_Loss: 0.0033, Train_Accuracy: 0.7808, Val_Accuracy: 0.8611, Test_Accuracy: 0.8767
+Epoch 107/2000, Train_Loss: 0.0036, Train_Accuracy: 0.7671, Val_Accuracy: 0.8611, Test_Accuracy: 0.8219
+Epoch 113/2000, Train_Loss: 0.0031, Train_Accuracy: 0.8356, Val_Accuracy: 0.8611, Test_Accuracy: 0.8904
+class_weights_str:[0.2840000092983246, 0.7160000205039978]
+bestval_accuracy: 0.8611111640930176
+Test_accuracy: 0.8493150684931506

@@ -1,0 +1,9 @@
+Country,Ratio,Overall Risk Probability
+America,train0.6_val0.15_test0.25,0.39436619718309857
+Austria,train0.6_val0.15_test0.25,0.3150684931506849
+China,train0.6_val0.15_test0.25,0.1712707182320442
+France,train0.6_val0.15_test0.25,0.4117647058823529
+Germany,train0.6_val0.15_test0.25,0.6811594202898551
+Italy,train0.6_val0.15_test0.25,0.49557522123893805
+Japan,train0.6_val0.15_test0.25,0.26865671641791045
+United Kingdom,train0.6_val0.15_test0.25,0.2

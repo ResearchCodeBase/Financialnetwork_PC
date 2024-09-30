@@ -1,0 +1,25 @@
+Experiment Details
+==================
+Year: 2019
+Type: raw
+Ratio: train0.6_val0.15_test0.25
+Learning Rate: 0.008
+Epochs: 300
+
+===================Data Statistics=====================
+总结点数: 163
+总边数: torch.Size([2, 3521])training samples, 97
+训练节点比例: 0.60
+validation samples, 25
+验证节点比例: 0.15
+test samples, 41
+测试节点比例: 0.25
+Number of features: 13
+y 形状, torch.Size([163])
+Test Results
+============
+Test Accuracy: 0.7804878048780488
+Test F1 Score: 0.7804878048780488
+Test AUC Score: 0.8071428571428572
+Test MCC: 0.45934964149866314
+Test G-Mean: 0.8017837257372732

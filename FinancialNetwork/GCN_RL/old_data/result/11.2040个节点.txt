@@ -1,0 +1,15 @@
+Epoch 1/5000, Train_Loss: 8792.8701, Train_Accuracy: 0.3125, Val_Accuracy: 0.5000, Test_Accuracy: 0.3333
+Epoch 3/5000, Train_Loss: 9153.0566, Train_Accuracy: 0.3125, Val_Accuracy: 0.0000, Test_Accuracy: 0.1667
+Epoch 4/5000, Train_Loss: 6082.6128, Train_Accuracy: 0.3750, Val_Accuracy: 0.0000, Test_Accuracy: 0.1667
+Epoch 18/5000, Train_Loss: 381.8539, Train_Accuracy: 0.6250, Val_Accuracy: 0.5000, Test_Accuracy: 0.6667
+Epoch 22/5000, Train_Loss: 623.7956, Train_Accuracy: 0.6250, Val_Accuracy: 0.5000, Test_Accuracy: 0.6667
+Epoch 23/5000, Train_Loss: 516.0243, Train_Accuracy: 0.6562, Val_Accuracy: 0.5000, Test_Accuracy: 0.6667
+Epoch 26/5000, Train_Loss: 597.2739, Train_Accuracy: 0.7500, Val_Accuracy: 0.5000, Test_Accuracy: 0.8333
+Epoch 126/5000, Train_Loss: 157.5405, Train_Accuracy: 0.7500, Val_Accuracy: 0.0000, Test_Accuracy: 0.8333
+Epoch 130/5000, Train_Loss: 71.2801, Train_Accuracy: 0.7500, Val_Accuracy: 0.5000, Test_Accuracy: 0.8333
+Epoch 164/5000, Train_Loss: 51.9592, Train_Accuracy: 0.7812, Val_Accuracy: 1.0000, Test_Accuracy: 0.8333
+Epoch 597/5000, Train_Loss: 1.0084, Train_Accuracy: 0.8125, Val_Accuracy: 1.0000, Test_Accuracy: 0.6667
+Epoch 679/5000, Train_Loss: 0.7820, Train_Accuracy: 0.8125, Val_Accuracy: 1.0000, Test_Accuracy: 0.3333
+class_weights_str:[0.2840000092983246, 0.7160000205039978]
+bestval_accuracy: 0.8125
+Test_accuracy: 0.8333333333333334

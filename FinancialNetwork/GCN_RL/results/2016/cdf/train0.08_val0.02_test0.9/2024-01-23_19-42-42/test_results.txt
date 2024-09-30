@@ -1,0 +1,25 @@
+Experiment Details
+==================
+Year: 2016
+Type: cdf
+Ratio: train0.08_val0.02_test0.9
+Learning Rate: 0.008
+Epochs: 300
+
+===================Data Statistics=====================
+总结点数: 145
+总边数: torch.Size([2, 3946])training samples, 11
+训练节点比例: 0.08
+validation samples, 3
+验证节点比例: 0.02
+test samples, 131
+测试节点比例: 0.90
+Number of features: 13
+y 形状, torch.Size([145])
+Test Results
+============
+Test Accuracy: 0.8549618320610687
+Test F1 Score: 0.8549618320610687
+Test AUC Score: 0.9608150470219435
+Test MCC: 0.6861558446639987
+Test G-Mean: 0.851423296659214

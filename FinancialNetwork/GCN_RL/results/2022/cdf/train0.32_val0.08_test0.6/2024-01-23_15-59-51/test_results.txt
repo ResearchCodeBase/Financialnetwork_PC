@@ -1,0 +1,24 @@
+Experiment Details
+==================
+Year: 2022
+Type: cdf
+Ratio: train0.32_val0.08_test0.6
+Learning Rate: 0.008
+Epochs: 300
+
+===================Data Statistics=====================总结点数: 181
+总边数: torch.Size([2, 3931])training samples, 57
+训练节点比例: 0.31
+validation samples, 15
+验证节点比例: 0.08
+test samples, 109
+测试节点比例: 0.60
+Number of features: 13
+y 形状, torch.Size([181])
+Test Results
+============
+Test Accuracy: 0.944954128440367
+Test F1 Score: 0.944954128440367
+Test AUC Score: 0.9258426966292135
+Test MCC: 0.8098082944031942
+Test G-Mean: 0.8366600265340756
